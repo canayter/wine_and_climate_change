@@ -1,5 +1,5 @@
 # wine_and_climate_change
-Repository from Group Project 1
+
 Our Current Research Questions:
 ## Is there a correlation between rising temperatures and its effect on wine production?
 Hypothesis: There is a statistically significant correlation between rising temperatures and wine production.
@@ -59,4 +59,12 @@ There were many illogical decisions made towards the beginning of the project th
 If I had more time, I would have pulled more data sets to help paint a more accurate picture. As Mustafa pointed out in his section, things like soil type, government investment into industry, or even availability to water can all have a significant impact on how the data gets interpreted. And, in general, more time would have allowed for a lot more trouble shooting and course correction, which would in turn have resulted in better results. 
 
 ## Which geographical regions can expect to see an increase in wine production and which regions can expect to see a decrease in wine production given the expected rise in temperature?
+The analysis found that while some countries showed weak to moderate correlations between temperature and wine production, overall there was not a statistically significant correlation across all countries with the current data sets.
 
+A few key points:
+The analysis looked at New Zealand as a case study. While New Zealand had the highest rate of wine production growth and experienced a weak positive trend in average yearly temperature, there was no statistically significant correlation between higher temperatures and increased wine production.
+Japan was another case study that did show statistically significant correlations between increased temperatures and growth in the wine industry. However, causation could not be established.
+The author acknowledged several limitations and flaws in the analysis, including limited data sets, poor choice of start year for analysis, and incorrect assumptions about the time period covered by the wine production data.
+The author concluded that more data sets and time would be needed to clearly demonstrate a statistical relationship between temperature rise and growth in wine production in different regions.
+
+In summary, while the initial hypothesis was that colder regions may see an increase in wine production and traditionally ideal regions may see a decrease, the limited analysis conducted was not able to confirm this or make clear predictions for specific geographical regions. More comprehensive data and further study would be required to answer the question posed.
