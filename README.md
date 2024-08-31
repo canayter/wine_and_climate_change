@@ -1,5 +1,5 @@
 # Wine and Climate Change: Impact Analysis on Global Production
-By: Can "Jon" Ayter and Team
+By: Amanda Derdiger, Andrew Koller, Can "Jon" Ayter, Lindsay McFayden
 
 ## Introduction
 This project investigates the relationship between climate change and global wine production. We analyze temperature trends and wine production data to uncover potential correlations and impacts across various geographical regions.
@@ -54,17 +54,13 @@ Our dataset comprises:
 * Run the Jupyter Notebook to see the analysis and results
 * Use interactive widgets to explore data for different countries and time periods
 
-Future Work
+## Future Work
 * Incorporate additional climate variables (precipitation, soil moisture)
 * Analyze economic and policy factors influencing wine production
 * Extend the dataset to include more recent years
 * Develop predictive models for future wine production based on climate projections
 
-Limitations and Considerations
+## Limitations and Considerations
 * Data limitations in some regions and time periods
 * Complex interplay of factors affecting wine production beyond climate
 * Need for more comprehensive datasets for definitive conclusions
-
-About the Authors
-Can "Jon" Ayter and team - Data Scientists specializing in climate impact analysis and agricultural trends.
-LinkedIn Profile
